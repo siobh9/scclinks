@@ -8,8 +8,24 @@ export default defineConfig({
       link: '/home-base',
     },
     {
-      text: 'Example',
-      link: '/example',
+      text: 'General Sites',
+      link: '/general-sites',
+    },
+    {
+      text: 'Resources',
+      link: '/resources',
+    },
+    {
+      text: 'Reportbacks',
+      link: '/reportbacks',
+    },
+    {
+      text: 'Analyses',
+      link: '/analyses',
+    },
+    {
+      text: 'Socials',
+      link: '/socials',
     },
   ],
 })
