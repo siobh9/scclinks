@@ -20,8 +20,8 @@ export default defineConfig({
       link: '/reportbacks',
     },
     {
-      text: 'Analyses',
-      link: '/analyses',
+      text: 'Analyses and History',
+      link: '/analyses-and-history',
     },
     {
       text: 'Socials',
