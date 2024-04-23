@@ -1,11 +1,11 @@
 import { defineConfig } from 'vocs'
 
 export default defineConfig({
-  title: 'Docs',
+  title: 'Stop Cop City Links',
   sidebar: [
     {
-      text: 'Getting Started',
-      link: '/getting-started',
+      text: 'Home Base',
+      link: '/home-base',
     },
     {
       text: 'Example',
