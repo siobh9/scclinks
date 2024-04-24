@@ -28,5 +28,9 @@ export default defineConfig({
       text: 'Socials',
       link: '/socials',
     },
+    {
+      text: 'Other Autonomous Movements',
+      link: '/other-autonomous-movements',
+    },
   ],
 })
