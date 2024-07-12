@@ -5,8 +5,8 @@ export default defineConfig({
   iconUrl: '/favicon.ico',
   sidebar: [
     {
-      text: 'Home Base',
-      link: '/home-base',
+      text: 'Home Page',
+      link: '/',
     },
     {
       text: 'General Sites',
